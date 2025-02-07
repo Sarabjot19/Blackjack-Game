@@ -62,4 +62,6 @@ Overall, this Blackjack game not only provides entertainment but also demonstrat
 
 ![Blackjack Code Snippet 02](https://github.com/Sarabjot19/Blackjack-Game/blob/main/Code%20snippet%2002.png)
 
+<img src="https://github.com/Sarabjot19/Blackjack-Game/blob/main/Blackjack%20Gameplay%2001.png" alt="Blackjack Gameplay 01" width="400"/>
+
 
