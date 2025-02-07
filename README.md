@@ -52,21 +52,15 @@ This project was created as an opportunity to practice and apply **C# programmin
 Overall, this Blackjack game not only provides entertainment but also demonstrates the application of programming concepts in a fun and interactive way. It's a solid foundation that can be further developed into a more advanced game with enhanced features and a more user-friendly interface.
 
 
-![Blackjack Gameplay 01](https://github.com/Sarabjot19/Blackjack-Game/blob/main/Blackjack%20Gameplay%2001.png)
-
-![Blackjack Gameplay 02](https://github.com/Sarabjot19/Blackjack-Game/blob/main/Blackjack%20Gameplay%2002.png)
-
-![Blackjack Gameplay 03](https://github.com/Sarabjot19/Blackjack-Game/blob/main/Blackjack%20Gameplay%2003.png)
-
-![Blackjack Code Snippet 01](https://github.com/Sarabjot19/Blackjack-Game/blob/main/Code%20snippet%2001.png)
-
-![Blackjack Code Snippet 02](https://github.com/Sarabjot19/Blackjack-Game/blob/main/Code%20snippet%2002.png)
-
 
 <p align="center">
   <img src="https://github.com/Sarabjot19/Blackjack-Game/blob/main/Blackjack%20Gameplay%2001.png" alt="Blackjack Gameplay 01" width="800"/>
-   <img src="https://github.com/Sarabjot19/Blackjack-Game/blob/main/Blackjack%20Gameplay%2002.png" alt="Blackjack Gameplay 02" width="800"/>
+  <img src="https://github.com/Sarabjot19/Blackjack-Game/blob/main/Blackjack%20Gameplay%2002.png" alt="Blackjack Gameplay 02" width="800"/>
+  <img src="https://github.com/Sarabjot19/Blackjack-Game/blob/main/Blackjack%20Gameplay%2003.png" alt="Blackjack Gameplay 03" width="800"/>
 
+  <img src="https://github.com/Sarabjot19/Blackjack-Game/blob/main/Code%20snippet%2001.png" alt="Blackjack Code Snippet 01" width="800"/>
+  <img src="https://github.com/Sarabjot19/Blackjack-Game/blob/main/Code%20snippet%2002.png" alt="Blackjack Code Snippet 02" width="800"/>
+  
   
 </p>
 
